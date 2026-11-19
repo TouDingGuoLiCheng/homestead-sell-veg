@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:chest" },
+    { "item": "minecraft:compass" }
+  ],
+  "result": {
+    "item": "homestead_sell_veg:source_permit",
+    "count": 1
+  }
+}

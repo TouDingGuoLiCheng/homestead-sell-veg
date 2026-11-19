@@ -1,0 +1,24 @@
+拆开快递盒音效 · 生成提示词
+用途：Minecraft 模组短音效，替换拆盒占位（羊毛破坏）。注册名 homestead_sell_veg:parcel_box_open。
+
+技术规格
+- 单段，无循环；长度 0.35～0.55 秒（最多不超过 0.7 秒）
+- 单声道，采样率 44100 Hz，16-bit PCM WAV（或导出后转 OGG Vorbis）
+- 响度适中，峰值勿削波；结尾 50ms 淡出，不要拖尾噪声
+- 不要音乐、人声、旁白、环境鸟叫
+
+中文提示词（可直接贴进生成器）
+短促的拆纸箱音效：先是透明胶带被猛地撕开的清脆刺啦一声，紧接着瓦楞纸箱盖弹开、纸板摩擦，最后几件轻物在箱底轻轻一碰。干爽、近距离、游戏 UI 反馈感，不要沉重砸箱。卡通写实混合，干净无混响拖尾。时长约半秒。
+
+English prompt
+Short game SFX of opening a cardboard parcel: a sharp adhesive-tape rip, then a corrugated box flap popping open with dry cardboard rustle, ending with a tiny contents clink. Close-mic, dry, snappy UI feedback, no music, no voice, no long reverb. 0.4–0.5 seconds, mono.
+
+备选变体（可生成 2～3 条随机抽）
+A) 胶带撕开更长一点，纸板声更轻（适合小盒）
+B) 胶带短促 + 纸板闷响稍重（适合大盒）
+C) 胶带 + 纸屑轻响，几乎无金属碰撞
+
+不要
+- 剪刀、刀割、玻璃碎、爆炸、气泡膜连撕过长
+- 快递驿站环境底噪、汽车喇叭
+- 8-bit 哔哔声（本模组要实物纸箱感）

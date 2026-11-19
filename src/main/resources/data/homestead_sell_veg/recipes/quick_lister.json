@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:emerald" }
+  ],
+  "result": {
+    "item": "homestead_sell_veg:quick_lister",
+    "count": 1
+  }
+}

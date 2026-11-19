@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "homestead_sell_veg:block/drop_point_bottom",
+    "side": "homestead_sell_veg:block/drop_point",
+    "top": "homestead_sell_veg:block/drop_point_top"
+  }
+}
